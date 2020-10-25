@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body {
+    background-color: #2E2B2B;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+<<<<<<< HEAD
+=======
+    font-size: 18px;
+>>>>>>> 3f2dfaa... Version 3.0
+}
+
+a {
+    color : whitesmoke;
+}
+
+div {
+<<<<<<< HEAD
+    padding: 70px 0;
+    text-align: center;
+=======
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    padding: 0;
+    line-height: 10px;
+>>>>>>> 3f2dfaa... Version 3.0
+}

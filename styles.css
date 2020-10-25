@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+
+body {
+    background-color: #eaf6f6;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 15%;
+    border-color: gray;
+}
+
+h1 {
+    color: #214252;
+    font-family: 'Open Sans', sans-serif;}
+
+h3 {
+    color: #66bfbf;
+}
